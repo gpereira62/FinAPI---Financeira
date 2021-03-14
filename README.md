@@ -1,7 +1,5 @@
 # FinAPI---Financeira
 
----
-
 ### Requisitos
 
 - [] Deve ser possível criar um conta
@@ -12,8 +10,6 @@
 - [] Deve ser possível atualizar dados da conta do cliente
 - [] Deve ser possível obter dados da conta do clinte
 - [] Deve ser possível deletar uma conta
-
-___
 
 ## Regras de Negócio
 
